@@ -19,9 +19,12 @@ namespace Ojo_de_mosca
 
         private void Start_Click(object sender, EventArgs e)
         {
+            Start.Enabled = false;
             points = (int)Points.Value;
-            radio = Math.Truncate((double)Radio.Value);
+            radio = Math.Truncate((double)Radio.Value*1000)/1000;
             parallel = Parallel.Checked;
+            Draw figura = new Draw(points, radio, parallel, pictureBox1.Width, pictureBox1.Height);
+            Start.Enabled = true;
         }
     }
 }

@@ -31,11 +31,11 @@
             this.Start = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.Parallel = new System.Windows.Forms.CheckBox();
             this.Points = new System.Windows.Forms.NumericUpDown();
             this.Radio = new System.Windows.Forms.NumericUpDown();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.Parallel = new System.Windows.Forms.CheckBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.Points)).BeginInit();
@@ -78,12 +78,22 @@
             this.panel1.Size = new System.Drawing.Size(300, 376);
             this.panel1.TabIndex = 11;
             // 
+            // Parallel
+            // 
+            this.Parallel.AutoSize = true;
+            this.Parallel.Location = new System.Drawing.Point(6, 280);
+            this.Parallel.Name = "Parallel";
+            this.Parallel.Size = new System.Drawing.Size(82, 21);
+            this.Parallel.TabIndex = 16;
+            this.Parallel.Text = "Paralelo";
+            this.Parallel.UseVisualStyleBackColor = true;
+            // 
             // Points
             // 
             this.Points.AutoSize = true;
             this.Points.Location = new System.Drawing.Point(6, 29);
             this.Points.Maximum = new decimal(new int[] {
-            150,
+            360,
             0,
             0,
             0});
@@ -138,16 +148,6 @@
             this.label2.Size = new System.Drawing.Size(45, 17);
             this.label2.TabIndex = 12;
             this.label2.Text = "Radio";
-            // 
-            // checkBox1
-            // 
-            this.Parallel.AutoSize = true;
-            this.Parallel.Location = new System.Drawing.Point(6, 280);
-            this.Parallel.Name = "checkBox1";
-            this.Parallel.Size = new System.Drawing.Size(82, 21);
-            this.Parallel.TabIndex = 16;
-            this.Parallel.Text = "Paralelo";
-            this.Parallel.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
