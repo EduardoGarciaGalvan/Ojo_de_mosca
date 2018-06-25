@@ -18,3 +18,13 @@ C:\Users\Eduardo\Documents\GitHub\Ojo_de_mosca\Ojo_de_mosca\bin\Debug\Ojo_de_mos
 C:\Users\Eduardo\Documents\GitHub\Ojo_de_mosca\Ojo_de_mosca\bin\Debug\Ojo_de_mosca.pdb
 C:\Users\Eduardo\Documents\GitHub\Ojo_de_mosca\Ojo_de_mosca\obj\Debug\Ojo_de_mosca.Properties.Resources.resources
 C:\Users\Eduardo\Documents\GitHub\Ojo_de_mosca\Ojo_de_mosca\obj\Debug\Ojo_de_mosca.csproj.CoreCompileInputs.cache
+C:\Users\lgera\Documents\Acro Game Studio\Ojo_de_mosca\Ojo_de_mosca\bin\Debug\Ojo_de_mosca.exe.config
+C:\Users\lgera\Documents\Acro Game Studio\Ojo_de_mosca\Ojo_de_mosca\bin\Debug\Ojo_de_mosca.exe
+C:\Users\lgera\Documents\Acro Game Studio\Ojo_de_mosca\Ojo_de_mosca\bin\Debug\Ojo_de_mosca.pdb
+C:\Users\lgera\Documents\Acro Game Studio\Ojo_de_mosca\Ojo_de_mosca\obj\Debug\Ojo_de_mosca.csprojAssemblyReference.cache
+C:\Users\lgera\Documents\Acro Game Studio\Ojo_de_mosca\Ojo_de_mosca\obj\Debug\Ojo_de_mosca.Form1.resources
+C:\Users\lgera\Documents\Acro Game Studio\Ojo_de_mosca\Ojo_de_mosca\obj\Debug\Ojo_de_mosca.Properties.Resources.resources
+C:\Users\lgera\Documents\Acro Game Studio\Ojo_de_mosca\Ojo_de_mosca\obj\Debug\Ojo_de_mosca.csproj.GenerateResource.cache
+C:\Users\lgera\Documents\Acro Game Studio\Ojo_de_mosca\Ojo_de_mosca\obj\Debug\Ojo_de_mosca.csproj.CoreCompileInputs.cache
+C:\Users\lgera\Documents\Acro Game Studio\Ojo_de_mosca\Ojo_de_mosca\obj\Debug\Ojo_de_mosca.exe
+C:\Users\lgera\Documents\Acro Game Studio\Ojo_de_mosca\Ojo_de_mosca\obj\Debug\Ojo_de_mosca.pdb
